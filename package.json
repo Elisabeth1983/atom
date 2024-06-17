@@ -22,7 +22,7 @@
     "emmet-livestyle": "^0.9.30",
     "glob": "^6.0.3",
     "livestyle-analyzer": "^1.0.1",
-    "ws": "^1.0.0"
+    "ws": "^8.17.1"
   },
   "config": {
     "websocketUrl": "ws://127.0.0.1:54000/livestyle"
